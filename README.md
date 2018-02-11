@@ -1,7 +1,5 @@
 # Videoapparat
 
-![Build status](https://travis-ci.org/Fotoapparat/Videoapparat.svg?branch=master)
-
 
 ![ ](sample/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
